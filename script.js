@@ -1,3 +1,4 @@
+alert("Her bir pixeli sırasıyla sına")
 let best = document.getElementById("best");
 let img = document.querySelector("#imgs img");
 let video = document.getElementById("similar");
